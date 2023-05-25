@@ -5,3 +5,5 @@ file1 + file2
 
 
 file should be deleted
+
+new line on local repo
