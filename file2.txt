@@ -3,7 +3,11 @@ file created
 those files delete after you done
 file1 + file2
 
+<<<<<<< HEAD
 
 file should be deleted
 
 new line on local repo
+=======
+new line on center 2
+>>>>>>> refs/remotes/orgin/master
